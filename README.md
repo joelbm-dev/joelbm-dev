@@ -12,8 +12,6 @@
 
 Apasionado por construir soluciones digitales robustas y elegantes — desde interfaces modernas hasta automatización de procesos críticos. Me encanta afrontar nuevos retos y optimizar el rendimiento de las aplicaciones de extremo a extremo.
 
-* ✉️ Puedes conectar conmigo a través de mi **LinkedIn** aquí abajo.
-
 ---
 
 ### 🤝 Conéctate conmigo
@@ -21,6 +19,12 @@ Apasionado por construir soluciones digitales robustas y elegantes — desde int
 <p align="left">
   <a href="https://linkedin.com/in/joel-barreira-1b9ab6366" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joel Barreira LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:joel.barreira@outlook.com">
+    <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" alt="Outlook" />
+  </a>
+  <a href="https://joelbm-dev-github-io.vercel.app/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30" alt="Portafolio" />
   </a>
 </p>
 
