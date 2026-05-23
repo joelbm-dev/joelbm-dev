@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&height=70&lines=Hola+👋%2C+soy+Joel+Barreira;Desarrollador+Web+Full+Stack;Apasionado+por+la+automatización" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=joelbm-dev&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="joelbm-dev" />
 </p>
 
@@ -70,28 +66,12 @@ Apasionado por construir soluciones digitales robustas y elegantes — desde int
 
 ---
 
-### 🐍 El juego de la serpiente (Mis Contribuciones)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/joelbm-dev/joelbm-dev/output/github-contribution-grid-snake.svg" alt="GitHub Snake Game" />
-</p>
-
----
-
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joelbm-dev&theme=radical&column=7" alt="joelbm-dev trophies" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelbm-dev&show_icons=true&locale=es&theme=radical" alt="joelbm-dev github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelbm-dev&show_icons=true&locale=es&layout=compact&theme=radical" alt="joelbm-dev top languages" />
 </p>
 
 <p align="center">
